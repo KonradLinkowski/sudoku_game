@@ -1,3 +1,4 @@
+package core;
 import java.util.ArrayList;
 /**
  * <h1>Definition of single sudoku cell</h1>

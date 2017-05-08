@@ -1,3 +1,4 @@
+package core;
 /**
  *<p>Here is located the definition of sudoku class.</p>
  * @author Konrad Linkowski
